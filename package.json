@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "The skeleton Node.js",
   "main": "index.js",
-  "type": "module",
   "scripts": {
     "start": "node ./src/main/api/server.js",
     "start:debug": "node --inspect=9229 ./src/main/api/server.js",
